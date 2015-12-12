@@ -2,7 +2,7 @@ Repositório para armazenar o código utilizado na execução do segundo projeto
 
 A classe main utilizada ~> https://github.com/jrgvf/Projeto2-IA/blob/master/librec/src/main/java/librec/main/Project.java
 
-A pasta de resultados utilizados na análise ~> https://github.com/jrgvf/Projeto2-IA/tree/master/librec/project/Results
+A pasta de resultados utilizados na análise ~> https://github.com/jrgvf/Projeto2-IA/tree/master/librec/project/Results-Project
 
 Arquivos de Configuração ~> https://github.com/jrgvf/Projeto2-IA/tree/master/librec/project/config
 
