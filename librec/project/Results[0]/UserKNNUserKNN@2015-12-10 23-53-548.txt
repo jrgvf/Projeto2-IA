@@ -1,4 +1,0 @@
-Dataset: .../Datasets/CiaoDVD/movie-ratings.txt
-With Setup: cv -k 5 -p on --rand-seed 1 --test-view all
-UserKNN,0.820415,1.067964,0.205104,0.812537,1.085121,0.666985,,50, PCC, 30,'01:30','01:09'
-
